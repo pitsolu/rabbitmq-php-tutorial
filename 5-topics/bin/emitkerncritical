@@ -1,0 +1,3 @@
+#/bin/bash
+
+php emit_log_topic.php "kern.critical" "A critical kernel error"

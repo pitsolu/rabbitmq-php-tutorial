@@ -1,0 +1,3 @@
+#/binbash
+
+php receive_logs_topic.php "#"
